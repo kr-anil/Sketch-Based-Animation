@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"  width="961px" height = "721px">
+	
+	
+	
+	<defs>
+		<pattern id="p1" patternUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+			<path fill="#05E9FF" fill-opacity="0.7" d="M0 0H23v1H1V23H0z"/>
+		</pattern>
+	</defs>
+	<rect width="961" height="721" x="0" y="0" fill="#00688B" />
+	<rect width="961" height="721" x="0" y="0" fill="url(#p1)" />
+</svg>
